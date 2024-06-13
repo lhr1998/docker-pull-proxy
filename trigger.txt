@@ -1,1 +1,1 @@
-xprobe/xinference:latest-cpu registry.cn-zhangjiakou.aliyuncs.com/sdlg-lhr/maven/xprobe/xinference:latest-cpu
+xprobe/xinference:latest-cpu registry.cn-zhangjiakou.aliyuncs.com/sdlg-lhr/xprobe/xinference:latest-cpu
